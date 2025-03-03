@@ -4,8 +4,8 @@ public class ClaseAbtracta {
         //FiguraGeometrica figuraGeometrica = new FiguraGeometrica() //error no se puede instanciar
         FiguraGeometrica figuraGeometrica = new Rectangulo();
         figuraGeometrica.dibujar();
-        FiguraGeometrica figuraGeometrica2 = new Triangulo();
-        figuraGeometrica2.dibujar();
+        figuraGeometrica = new Triangulo();
+        figuraGeometrica.dibujar();
 
         }
     }

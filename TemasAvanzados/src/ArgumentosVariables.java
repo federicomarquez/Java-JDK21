@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 public class ArgumentosVariables {
     public static void main(String[] args) {
         //imprimirNumeros(1,2,3,4,5);
@@ -15,4 +17,5 @@ public class ArgumentosVariables {
         }
         //System.out.println("numeros = " + numeros);
     }
+
 }
